@@ -1,10 +1,11 @@
 import React from 'react';
+import MusicContainer from './containers/MusicContainer';
 
 import './App.css';
 
 function App() {
   return (
-  "music goes here"
+  <MusicContainer />
   );
 }
 
